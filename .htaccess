@@ -1,0 +1,4 @@
+# Apache obviously
+# Rewrites ip.js files to ip.php
+RewriteEngine On
+RewriteRule ip\.js ip.php
